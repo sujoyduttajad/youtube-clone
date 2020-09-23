@@ -15,7 +15,7 @@ It is completely responsive and can be used in mobile devices.
 All the classnames are written following the BEM convention and used to style the specific components. 
 Each section is break down into it’s own components.
 
-#The components goes like this - 
+# The components goes like this - 
 * Header
 * Sidebar
 * RecommendedVideos
@@ -26,7 +26,7 @@ Each section is break down into it’s own components.
 * ChannelRow
 
 
-#Here’s the tech stack used to build the app - 
+# Tech stack used to build the app - 
 * React
 * React-router
 * Firebase

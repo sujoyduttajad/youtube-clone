@@ -16,21 +16,21 @@ All the classnames are written following the BEM convention and used to style th
 Each section is break down into it’s own components.
 
 #The components goes like this - 
-Header
-Sidebar
-RecommendedVideos
-SidebarRow
-VideoCard
-VideoRow
-SearchPage
-ChannelRow
+* Header
+* Sidebar
+* RecommendedVideos
+* SidebarRow
+* VideoCard
+* VideoRow
+* SearchPage
+* ChannelRow
 
 
 #Here’s the tech stack used to build the app - 
-React
-React-router
-Firebase
-Material-UI
-Flexbox
-CSS3
-HTML5
+* React
+* React-router
+* Firebase
+* Material-UI
+* Flexbox
+* CSS3
+* HTML5

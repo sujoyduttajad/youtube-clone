@@ -4,7 +4,7 @@ This is a React web app.
 This is one of the fun projects that I had done not only playing with React, react-router but also using Flexbox and Material_UI to it's extent.
 
 #To see the live demo of the app, please click the below link -
-[a link](https://clone-361ba.web.app)
+[https://clone-361ba.web.app](https://clone-361ba.web.app)
 
 <img src="./youtube-clone.png" alt="the screenshot of the app"/>
 
